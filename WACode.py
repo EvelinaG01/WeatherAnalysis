@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Path of csv file
-file_path = 'C:/Users/user/Desktop/weather_classification_data.csv'  # Αντικατάστησε με το πραγματικό μονοπάτι
+file_path = 'C:/Users/user/Desktop/weather_classification_data.csv' 
 
 # Load Cs file to DataFrame
 data = pd.read_csv(file_path)
