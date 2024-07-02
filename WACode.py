@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Path of csv file
+# Path of csv file C:\Users\user\Desktop
 file_path = 'C:/Users/user/Desktop/weather_classification_data.csv' 
 
 # Load csv file to DataFrame
