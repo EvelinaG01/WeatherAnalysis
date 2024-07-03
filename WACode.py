@@ -59,8 +59,3 @@ plt.xticks(ticks=[0, 1, 2, 3], labels=['Winter', 'Spring', 'Summer', 'Autumn'])
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-# In[ ]:
-
-
-
-
